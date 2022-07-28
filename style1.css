@@ -1,0 +1,35 @@
+*{
+	font-family: 'Ubuntu', sans-serif;
+}
+.footer{
+
+	height: 400px;
+}
+.carousel-inner{
+	height: 100vh;
+}
+.carousel-caption{
+	top: 30%;
+}
+.carousel-indicators{
+	bottom: 50px;
+
+}
+.carousel-control-prev{
+	
+	padding-left:50px;
+}
+.carousel-control-next{
+	padding-right: 130px;
+		
+
+}
+.arrow{
+	padding: 5px 10px;
+	border-radius: 50%;
+	margin-left: -10px;
+	margin-top: 120px;
+}
+.card-img{
+	height: 50px;
+}
